@@ -1,0 +1,9 @@
+{
+  "rds_host": "database-1.cd84uqucyepr.us-east-2.rds.amazonaws.com",
+  "rds_port": "3306",
+  "rds_user": "vazmarc",
+  "rds_password": "&72Swixa1APRu$IpE6",
+  "rds_db": "SWIFTIFY",
+  "server_host": "localhost",
+  "server_port": "8080"
+}
