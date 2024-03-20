@@ -29,7 +29,7 @@ const author = async function(req, res) {
     res.json({ name: name });
   } else if (req.params.type === 'pennkey') {
     // TODO (TASK 2): edit the else if condition to check if the request parameter is 'pennkey' and if so, send back a JSON response with the pennkey
-    res.json({ object: pennkey });
+    res.json({ pennkey: pennkey });
   } else {
     res.status(400).json({});
   }
